@@ -1,6 +1,6 @@
 Sahal RESOLUSI
 - Belajar GIT & GITHUB
 - Belajar JavaScript
-- Membuat Website menggunakan Laravel
 - Belajar JavaScript DOM
 - Membuat Website dengan JS di dalamnya
+- Membuat project besar

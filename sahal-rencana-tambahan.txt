@@ -3,4 +3,5 @@ RENCANA TAMBAHAN SAHAL
 - Bermain
 - Olahraga
   * Voli
+  * Renang
 - Istirahat

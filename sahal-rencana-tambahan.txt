@@ -4,4 +4,7 @@ RENCANA TAMBAHAN SAHAL
 - Olahraga
   * Voli
   * Renang
+    ^ Di kolam renang
 - Istirahat
+  * Tidur yang cukup
+    ^ Tidak lebih dari jam 12
